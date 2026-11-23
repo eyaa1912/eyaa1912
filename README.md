@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Girl" />
+<img src="https://github.com/user-attachments/assets/a3dbaa0c-8162-45f0-893f-0b2c300e6b37" width="300" alt="Coding Girl" />
 
 <br/>
 
