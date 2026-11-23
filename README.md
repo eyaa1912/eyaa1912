@@ -46,22 +46,6 @@
 
 ---
 
-### ◈ Projects
-
-**Smart City** — C++ / Qt  
-Desktop application for smart urban management, optimizing city resources and services.
-
-**TakwiniBot** — AI-powered Employment Platform  
-A platform that helps job seekers find opportunities using AI-driven features.
-
-**Zoo Management** — Java / OOP  
-Java application applying object-oriented programming to manage zoo operations.
-
-**Waste Management IoT** — IoT / Green Energy  
-Smart waste management system combined with green energy solutions for sustainability.
-
----
-
 ### ◈ Currently Learning
 
 - Software Engineering
